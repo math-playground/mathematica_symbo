@@ -1,2 +1,1 @@
-# mathematica_symbo
-Exercises for Mathematica Symbolics
+# Mathematica for Symbolic Computations Exercises
